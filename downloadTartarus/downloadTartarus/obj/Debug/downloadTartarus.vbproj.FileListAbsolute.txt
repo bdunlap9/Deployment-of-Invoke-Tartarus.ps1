@@ -1,0 +1,12 @@
+C:\Users\Weeke\Documents\Visual Studio 2017\Projects\downloadTartarus\downloadTartarus\bin\Debug\downloadTartarus.exe.config
+C:\Users\Weeke\Documents\Visual Studio 2017\Projects\downloadTartarus\downloadTartarus\bin\Debug\downloadTartarus.exe
+C:\Users\Weeke\Documents\Visual Studio 2017\Projects\downloadTartarus\downloadTartarus\bin\Debug\downloadTartarus.pdb
+C:\Users\Weeke\Documents\Visual Studio 2017\Projects\downloadTartarus\downloadTartarus\bin\Debug\downloadTartarus.xml
+C:\Users\Weeke\Documents\Visual Studio 2017\Projects\downloadTartarus\downloadTartarus\obj\Debug\downloadTartarus.vbprojResolveAssemblyReference.cache
+C:\Users\Weeke\Documents\Visual Studio 2017\Projects\downloadTartarus\downloadTartarus\obj\Debug\downloadTartarus.Form1.resources
+C:\Users\Weeke\Documents\Visual Studio 2017\Projects\downloadTartarus\downloadTartarus\obj\Debug\downloadTartarus.Resources.resources
+C:\Users\Weeke\Documents\Visual Studio 2017\Projects\downloadTartarus\downloadTartarus\obj\Debug\downloadTartarus.vbproj.GenerateResource.Cache
+C:\Users\Weeke\Documents\Visual Studio 2017\Projects\downloadTartarus\downloadTartarus\obj\Debug\downloadTartarus.vbproj.CoreCompileInputs.cache
+C:\Users\Weeke\Documents\Visual Studio 2017\Projects\downloadTartarus\downloadTartarus\obj\Debug\downloadTartarus.exe
+C:\Users\Weeke\Documents\Visual Studio 2017\Projects\downloadTartarus\downloadTartarus\obj\Debug\downloadTartarus.xml
+C:\Users\Weeke\Documents\Visual Studio 2017\Projects\downloadTartarus\downloadTartarus\obj\Debug\downloadTartarus.pdb
